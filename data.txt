@@ -1,8 +1,5 @@
 9/12/2022
-<<<<<<< HEAD
 Mitchell Ruple 
 Mjr160
-=======
-Mitchell Ruple
 brs137
->>>>>>> 37bd8f78af8ae558d9225e6cbd8f708803b6194f
+
